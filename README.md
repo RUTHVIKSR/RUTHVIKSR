@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Ragi Sai Ruthvik</h1>
 
 ## 💫 About Me
-Fourth‑year Computer Science & Engineering student at **MVSR (Osmania University)**.  
+Fourth‑year Computer Science & Engineering student at **MVSR Engineering College (Osmania University)**.  
 I love turning algorithms into real‑world products—whether that’s a Go micro‑service, a neural‑network chess tool or a Rubik’s‑Cube solver.
 
 ### 🚀 Currently
