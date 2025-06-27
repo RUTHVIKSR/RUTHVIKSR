@@ -1,37 +1,45 @@
-<h1 align="center">Hi 👋 I'm Ragi Sai Ruthvik</h1>
+<h1 align="center">Hi 👋, I’m Ragi Sai Ruthvik</h1>
 
-# 💫 About Me:
-I am a fourth-year computer engineering student at MVSR (Osmania University), passionate about exploring the realms of coding, Data Structures, Algorithms, machine learning, and building robust applications.
+## 💫 About Me
+Fourth‑year Computer Science & Engineering student at **MVSR (Osmania University)**.  
+I love turning algorithms into real‑world products—whether that’s a Go micro‑service, a neural‑network chess tool or a Rubik’s‑Cube solver.
 
-## 🚀 What I'm Up To
+### 🚀 Currently
+- 🖥️  Sharpening problem‑solving skills in **competitive programming** (>600 problems solved, Codeforces 1380).  
+- 🛠️  Building **Go/Gin/GORM** REST & gRPC back‑end services (intern @ Kisanlink).  
+- 🤖  Exploring **ML‑powered game analytics** after shipping my Chess Elo Predictor.
 
-- 🖥️ Doing Competitive Programming.
-- 💻 Building Spring Boot applications.
+[Check out my coding portfolio](https://ruthviksr.github.io/) • [personal blog posts](https://ruthviksr.github.io/#blog)
 
-Check out my [coding portfolio!](//coding website)
+---
 
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruthviksr/)
+[![Email](https://img.shields.io/badge/Email-ruthviksr987%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ruthviksr987@gmail.com)
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruthviksr/)
+---
 
-# 💻 Tech Stack:
-Languages: 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![c++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+## 💻 Tech Stack
 
-Developer Tools: 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+| **Languages** | **Frameworks / Libraries** | **Developer Tools** |
+|---------------|----------------------------|---------------------|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Gin](https://img.shields.io/badge/Gin-F2F4F9?style=for-the-badge&logo=go&logoColor=00ADD8) ![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) |
 
-Libraries/Frameworks: 
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![mySQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+---
+
+## 📌 Pinned Projects
+| Project | Stack | Highlights |
+|---------|-------|-----------|
+| **[Chess Elo Rating Predictor](https://github.com/RUTHVIKSR/Chess)** | Python · Flask · Vercel | NN predicts a player’s rating from a single PGN; full‑stack deployed |
+| **[Rubik’s Cube Solver](https://github.com/RUTHVIKSR/Rubik-s-Cube)** | C++ · CMake | IDA\* + bespoke heuristic → faster solutions, smaller search space |
+
+---
+
+### 🎯 Quick Stats
+- **Codeforces Rating:** 1380 ↗︎  
+- **Lichess Rapid:** 2093  
+- **Latest Internship:** Software Engineering @ Kisanlink (Go, Gin, GORM)
+
+---
+
+*Always happy to collaborate or just talk tech—drop a message any time!* 🚀
